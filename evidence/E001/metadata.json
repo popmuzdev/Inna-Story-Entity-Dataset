@@ -1,0 +1,18 @@
+{
+  "evidence_id": "E001",
+  "entity": "inna-story",
+  "title": "First documented royalty payment",
+  "claim": "Distributor account (Sferoom) shows a royalty credit of 10 RUB for the release \"Сколько той жизни?\", with a per-platform earnings breakdown for 2026-05.",
+  "date": "2026-07-26",
+  "amount_total": "10 RUB",
+  "balance_after": "10 RUB",
+  "source": "distributor account (lk.sferoom.space)",
+  "evidence_type": "screenshot",
+  "status": "self-reported",
+  "note": "Screenshots of a distributor dashboard, not an exported/signed statement.",
+  "files": [
+    "original-01-transaction.jpeg",
+    "original-02-balance.jpeg",
+    "original-03-platform-breakdown.jpeg"
+  ]
+}
